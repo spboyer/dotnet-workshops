@@ -1,5 +1,5 @@
 # .NET Workshops
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 ## .NET Foundation Workshops
 
@@ -92,7 +92,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="http://woodwardweb.com"><img src="https://avatars2.githubusercontent.com/u/856858?v=4" width="100px;" alt="Martin Woodward"/><br /><sub><b>Martin Woodward</b></sub></a><br /><a href="#content-martinwoodward" title="Content">🖋</a> <a href="https://github.com/spboyer/dotnet-workshops/commits?author=martinwoodward" title="Code">💻</a></td></tr></table>
+<table><tr><td align="center"><a href="http://woodwardweb.com"><img src="https://avatars2.githubusercontent.com/u/856858?v=4" width="100px;" alt="Martin Woodward"/><br /><sub><b>Martin Woodward</b></sub></a><br /><a href="#content-martinwoodward" title="Content">🖋</a> <a href="https://github.com/spboyer/dotnet-workshops/commits?author=martinwoodward" title="Code">💻</a></td><td align="center"><a href="https://wrightfully.com"><img src="https://avatars1.githubusercontent.com/u/3373249?v=4" width="100px;" alt="John M. Wright"/><br /><sub><b>John M. Wright</b></sub></a><br /><a href="https://github.com/spboyer/dotnet-workshops/commits?author=johnmwright" title="Code">💻</a> <a href="#content-johnmwright" title="Content">🖋</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
