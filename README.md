@@ -55,3 +55,11 @@ This ASP.NET Core workshop is broken down by topics: middleware, front-end, etc.
 # Community Workshops
 
 Add your workshop here!
+
+## [Learning C# on Linux](https://github.com/martinwoodward/csharpworkshop)
+
+![last commit](https://img.shields.io/github/last-commit/martinwoodward/csharpworkshop.svg?style=flat)
+[![GitHub forks](https://img.shields.io/github/forks/martinwoodward/csharpworkshop.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/martinwoodward/csharpworkshop/network/)
+[![GitHub stars](https://img.shields.io/github/stars/martinwoodward/csharpworkshop.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/martinwoodward/csharpworkshop/stargazers/)
+
+This workshop is aimed at developers with no prior knowledge of C# but have some experience with other programming languages or would like a refresher on the modern C# language.
