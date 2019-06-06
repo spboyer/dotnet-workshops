@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "martinwoodward",
+      "name": "Martin Woodward",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/856858?v=4",
+      "profile": "http://woodwardweb.com",
+      "contributions": [
+        "content",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "dotnet-workshops",
+  "projectOwner": "spboyer",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
