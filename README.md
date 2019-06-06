@@ -65,6 +65,27 @@ Add your workshop here!
 
 This workshop is aimed at developers with no prior knowledge of C# but have some experience with other programming languages or would like a refresher on the modern C# language.
 
+
+## [.NET Unit Testing Beginner Bootcamp](https://wrightfully.com/unittestworkshop)
+
+![last commit](https://img.shields.io/github/last-commit/johnmwright/UnitTestingBootcamp.svg?style=flat)
+[![GitHub forks](https://img.shields.io/github/forks/johnmwright/UnitTestingBootcamp.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/johnmwright/UnitTestingBootcamp/network/)
+[![GitHub stars](https://img.shields.io/github/stars/johnmwright/UnitTestingBootcamp.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/johnmwright/UnitTestingBootcamp/stargazers/)
+
+In this workshop, we'll talk through the topics you need to know to get up and running with unit testing, coupled with hands-on coding activities to practice the topics covered. 
+
+Topics covered in this workshop:
+
+- Fundamentals of unit testing and basic structure of a unit test / test suite
+- Features of popular testing frameworks and tooling
+- Tips and strategies for writing tests that provide long-term value
+- Differences between writing tests for new code vs writing tests for existing code
+- Unit Tests vs Integration Test: advantages and disadvantages of each
+- Using mocking frameworks
+- Integration with CI/build servers
+- Pros & cons of Code Coverage tools
+- Advanced integrations with testing frameworks -- using the framework SDKs to extend and enhance
+
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
