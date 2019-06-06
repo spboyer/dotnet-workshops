@@ -2,7 +2,7 @@
 
 ## .NET Foundation Workshops
 
-The following are listed under the .NET Foundation [Workshops & Presenations](https://presentations.dotnetfoundation.org/)
+The following are listed under the .NET Foundation [Workshops & Presentations](https://presentations.dotnetfoundation.org/)
 
 ## [Blazor Workshop](https://github.com/dotnet-presentations/blazor-workshop/)
 
