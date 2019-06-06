@@ -14,6 +14,16 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "johnmwright",
+      "name": "John M. Wright",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3373249?v=4",
+      "profile": "https://wrightfully.com",
+      "contributions": [
+        "code",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
