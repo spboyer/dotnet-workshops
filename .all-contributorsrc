@@ -54,6 +54,16 @@
         "code",
         "content"
       ]
+    },
+    {
+      "login": "EdCharbeneau",
+      "name": "Ed Charbeneau",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/945168?v=4",
+      "profile": "http://EdCharbeneau.com",
+      "contributions": [
+        "code",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
