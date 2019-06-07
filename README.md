@@ -103,7 +103,7 @@ You will learn how to use plug-ins to take advantage or hardware specific featur
 
 Delivered at [NDC London 2019](https://ndc-london.com/workshop/become-a-better-c-programmer-more-value-more-expressions-no-waiting/)
 
-Hosted by [Bill Wagner](https://ndc-london.com/speaker/bill-wagner)
+Hosted by [Bill Wagner](http://thebillwagner.com)
 
 ### Become a better C# programmer: more Value, more Expressions, no Waiting
 
