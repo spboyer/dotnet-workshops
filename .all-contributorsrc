@@ -64,6 +64,16 @@
         "code",
         "content"
       ]
+    },
+    {
+      "login": "BillWagner",
+      "name": "Bill Wagner",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/493969?v=4",
+      "profile": "http://theBillWagner.com",
+      "contributions": [
+        "code",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
