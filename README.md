@@ -86,6 +86,16 @@ Topics covered in this workshop:
 - Pros & cons of Code Coverage tools
 - Advanced integrations with testing frameworks -- using the framework SDKs to extend and enhance
 
+## [Build the Mobile Apps of Tomorrow](https://github.com/jimbobbennett/MobileAppsOfTomorrow-Lab)
+
+![last commit](https://img.shields.io/github/last-commit/jimbobbennett/MobileAppsOfTomorrow-Lab.svg?style=flat)
+[![GitHub forks](https://img.shields.io/github/forks/jimbobbennett/MobileAppsOfTomorrow-Lab.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jimbobbennett/MobileAppsOfTomorrow-Lab/network/)
+[![GitHub stars](https://img.shields.io/github/stars/jimbobbennett/MobileAppsOfTomorrow-Lab.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/jimbobbennett/MobileAppsOfTomorrow-Lab/stargazers/)
+
+In this workshop you will build a cloud-connected, AI powered mobile app that runs on iOS, Android and UWP using Xamarin and Xamarin.Forms.
+
+You will learn how to use plug-ins to take advantage or hardware specific features such as the camera, how to use Cognitive Services, and how to wire up an app to a back-end built using Azure functions and Blob storage. On the back-end side, you will learn how to create an API using Azure functions, behind a mobile app service that provides authentication, and how to connect this API up to Cognitive Services, Blob storage and CosmosDB (a globally distributed database system running on Azure).
+
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
