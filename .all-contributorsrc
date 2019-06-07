@@ -44,6 +44,16 @@
         "code",
         "content"
       ]
+    },
+    {
+      "login": "brminnick",
+      "name": "Brandon Minnick",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13558917?v=4",
+      "profile": "https://www.linkedin.com/in/brandon-minnick",
+      "contributions": [
+        "code",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
