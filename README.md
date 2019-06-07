@@ -72,7 +72,7 @@ This workshop is aimed at developers with no prior knowledge of C# but have some
 [![GitHub forks](https://img.shields.io/github/forks/johnmwright/UnitTestingBootcamp.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/johnmwright/UnitTestingBootcamp/network/)
 [![GitHub stars](https://img.shields.io/github/stars/johnmwright/UnitTestingBootcamp.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/johnmwright/UnitTestingBootcamp/stargazers/)
 
-In this workshop, we'll talk through the topics you need to know to get up and running with unit testing, coupled with hands-on coding activities to practice the topics covered. 
+In this workshop, we'll talk through the topics you need to know to get up and running with unit testing, coupled with hands-on coding activities to practice the topics covered.
 
 Topics covered in this workshop:
 
@@ -95,6 +95,25 @@ Topics covered in this workshop:
 In this workshop you will build a cloud-connected, AI powered mobile app that runs on iOS, Android and UWP using Xamarin and Xamarin.Forms.
 
 You will learn how to use plug-ins to take advantage or hardware specific features such as the camera, how to use Cognitive Services, and how to wire up an app to a back-end built using Azure functions and Blob storage. On the back-end side, you will learn how to create an API using Azure functions, behind a mobile app service that provides authentication, and how to connect this API up to Cognitive Services, Blob storage and CosmosDB (a globally distributed database system running on Azure).
+
+## [Going all in with Functional C#](https://edcharbeneau.com/csharp-functional-workshop-instructions/)
+
+![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/csharp-functional-workshop-instructions.svg?style=flat)
+[![GitHub forks](https://img.shields.io/github/forks/EdCharbeneau/csharp-functional-workshop-instructions.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/EdCharbeneau/csharp-functional-workshop-instructions/network/)
+[![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/csharp-functional-workshop-instructions.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/EdCharbeneau/csharp-functional-workshop-instructions/stargazers/)
+
+In this workshop you will learn about functional C# by building a poker scoring game using C# 7.x features. You'll learn what features in C# 7.x support functional programming. The pros/cons of functional vs. imperative programming will be explored to understand the strengths of each style.
+
+Key topics and takeaways:
+
+- Immutable Types
+- Basic LINQ concepts
+- Advanced LINQ concepts (yield)
+- Func Delegates
+- Expression Bodied Members
+- Extension methods and pipe-lining
+- Thread Safe Collections
+- new System.ValueTuple
 
 ## Contributors
 
