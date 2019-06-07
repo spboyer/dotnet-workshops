@@ -65,7 +65,6 @@ Add your workshop here!
 
 This workshop is aimed at developers with no prior knowledge of C# but have some experience with other programming languages or would like a refresher on the modern C# language.
 
-
 ## [.NET Unit Testing Beginner Bootcamp](https://wrightfully.com/unittestworkshop)
 
 ![last commit](https://img.shields.io/github/last-commit/johnmwright/UnitTestingBootcamp.svg?style=flat)
@@ -96,6 +95,37 @@ In this workshop you will build a cloud-connected, AI powered mobile app that ru
 
 You will learn how to use plug-ins to take advantage or hardware specific features such as the camera, how to use Cognitive Services, and how to wire up an app to a back-end built using Azure functions and Blob storage. On the back-end side, you will learn how to create an API using Azure functions, behind a mobile app service that provides authentication, and how to connect this API up to Cognitive Services, Blob storage and CosmosDB (a globally distributed database system running on Azure).
 
+## [C# Workshop](https://github.com/brminnick/csharp-workshop)
+
+![last commit](https://img.shields.io/github/last-commit/brminnick/csharp-workshop.svg?style=flat)
+[![GitHub forks](https://img.shields.io/github/forks/brminnick/csharp-workshop.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/brminnick/csharp-workshop/network/)
+[![GitHub stars](https://img.shields.io/github/stars/brminnick/csharp-workshop.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/brminnick/csharp-workshop/stargazers/)
+
+Delivered at [NDC London 2019](https://ndc-london.com/workshop/become-a-better-c-programmer-more-value-more-expressions-no-waiting/)
+
+Hosted by [Bill Wagner](https://ndc-london.com/speaker/bill-wagner)
+
+### Become a better C# programmer: more Value, more Expressions, no Waiting
+
+Over the past few releases, C# has added features that greatly improve productivity.
+
+In this workshop, you’ll learn scenarios where these new features make you more productive, and improve the clarity of your code. You’ll get a guided tour through the async and await wilderness. You'll start with basic uses where async and await work like magic. From there, you'll learn common practices and how async tasks compose. You'll dive into enough of the implementation details to understand how to apply async practices. After working through these different practices, you'll emerge from the wilderness understanding how to write clear, correct and safe async code. From there, you'll work through everyday scenarios where modern C# frees itself from the shackles of history. You'll see new ways to work with text, new expressions for control flow, and new ways to bend the type system to your will.
+You’ll learn:
+
+- [x] Getting started with the basics of async and await
+- [x] Distinguish asynchronous programming and parallel programming
+- [x] Compose asynchronous method calls throughout your code
+- [x] Understand the pitfalls of async void
+- [x] Designing async APIs
+- [x] Advanced async and Task based programming
+- [x] How string interpolation makes formatting strings much easier and clearer.
+- [x] How to create compound assignments and comparisons using Tuples and Deconstruction
+- [x] How to simplify iterators and async error handling using local functions
+- [x] How to simplify error reporting using throw expressions in expression bodied members.
+- [x] Write more performant code using value types safe pass-by-reference
+- [x] How to use Pattern Matching to create algorithms that extend existing types
+
+
 ## [Going all in with Functional C#](https://edcharbeneau.com/csharp-functional-workshop-instructions/)
 
 ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/csharp-functional-workshop-instructions.svg?style=flat)
@@ -121,7 +151,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="http://woodwardweb.com"><img src="https://avatars2.githubusercontent.com/u/856858?v=4" width="100px;" alt="Martin Woodward"/><br /><sub><b>Martin Woodward</b></sub></a><br /><a href="#content-martinwoodward" title="Content">🖋</a> <a href="https://github.com/spboyer/dotnet-workshops/commits?author=martinwoodward" title="Code">💻</a></td><td align="center"><a href="https://wrightfully.com"><img src="https://avatars1.githubusercontent.com/u/3373249?v=4" width="100px;" alt="John M. Wright"/><br /><sub><b>John M. Wright</b></sub></a><br /><a href="https://github.com/spboyer/dotnet-workshops/commits?author=johnmwright" title="Code">💻</a> <a href="#content-johnmwright" title="Content">🖋</a></td><td align="center"><a href="https://www.jimbobbennett.io"><img src="https://avatars1.githubusercontent.com/u/1710385?v=4" width="100px;" alt="Jim Bennett"/><br /><sub><b>Jim Bennett</b></sub></a><br /><a href="https://github.com/spboyer/dotnet-workshops/commits?author=jimbobbennett" title="Code">💻</a> <a href="#content-jimbobbennett" title="Content">🖋</a></td><td align="center"><a href="http://www.galasoft.ch"><img src="https://avatars0.githubusercontent.com/u/4922457?v=4" width="100px;" alt="Laurent Bugnion"/><br /><sub><b>Laurent Bugnion</b></sub></a><br /><a href="https://github.com/spboyer/dotnet-workshops/commits?author=lbugnion" title="Code">💻</a> <a href="#content-lbugnion" title="Content">🖋</a></td><td align="center"><a href="https://www.linkedin.com/in/brandon-minnick"><img src="https://avatars2.githubusercontent.com/u/13558917?v=4" width="100px;" alt="Brandon Minnick"/><br /><sub><b>Brandon Minnick</b></sub></a><br /><a href="https://github.com/spboyer/dotnet-workshops/commits?author=brminnick" title="Code">💻</a> <a href="#content-brminnick" title="Content">🖋</a></td><td align="center"><a href="http://EdCharbeneau.com"><img src="https://avatars1.githubusercontent.com/u/945168?v=4" width="100px;" alt="Ed Charbeneau"/><br /><sub><b>Ed Charbeneau</b></sub></a><br /><a href="https://github.com/spboyer/dotnet-workshops/commits?author=EdCharbeneau" title="Code">💻</a> <a href="#content-EdCharbeneau" title="Content">🖋</a></td></tr></table>
+<table><tr><td align="center"><a href="http://woodwardweb.com"><img src="https://avatars2.githubusercontent.com/u/856858?v=4" width="100px;" alt="Martin Woodward"/><br /><sub><b>Martin Woodward</b></sub></a><br /><a href="#content-martinwoodward" title="Content">🖋</a> <a href="https://github.com/spboyer/dotnet-workshops/commits?author=martinwoodward" title="Code">💻</a></td><td align="center"><a href="https://wrightfully.com"><img src="https://avatars1.githubusercontent.com/u/3373249?v=4" width="100px;" alt="John M. Wright"/><br /><sub><b>John M. Wright</b></sub></a><br /><a href="https://github.com/spboyer/dotnet-workshops/commits?author=johnmwright" title="Code">💻</a> <a href="#content-johnmwright" title="Content">🖋</a></td><td align="center"><a href="https://www.jimbobbennett.io"><img src="https://avatars1.githubusercontent.com/u/1710385?v=4" width="100px;" alt="Jim Bennett"/><br /><sub><b>Jim Bennett</b></sub></a><br /><a href="https://github.com/spboyer/dotnet-workshops/commits?author=jimbobbennett" title="Code">💻</a> <a href="#content-jimbobbennett" title="Content">🖋</a></td><td align="center"><a href="http://www.galasoft.ch"><img src="https://avatars0.githubusercontent.com/u/4922457?v=4" width="100px;" alt="Laurent Bugnion"/><br /><sub><b>Laurent Bugnion</b></sub></a><br /><a href="https://github.com/spboyer/dotnet-workshops/commits?author=lbugnion" title="Code">💻</a> <a href="#content-lbugnion" title="Content">🖋</a></td><td align="center"><a href="https://www.linkedin.com/in/brandon-minnick"><img src="https://avatars2.githubusercontent.com/u/13558917?v=4" width="100px;" alt="Brandon Minnick"/><br /><sub><b>Brandon Minnick</b></sub></a><br /><a href="https://github.com/spboyer/dotnet-workshops/commits?author=brminnick" title="Code">💻</a> <a href="#content-brminnick" title="Content">🖋</a></td><td align="center"><a href="http://EdCharbeneau.com"><img src="https://avatars1.githubusercontent.com/u/945168?v=4" width="100px;" alt="Ed Charbeneau"/><br /><sub><b>Ed Charbeneau</b></sub></a><br /><a href="https://github.com/spboyer/dotnet-workshops/commits?author=EdCharbeneau" title="Code">💻</a> <a href="#content-EdCharbeneau" title="Content">🖋</a></td></tr><td align="center"><a href="http://thebillwagner.com/"><img src="https://avatars3.githubusercontent.com/u/493969?s=460&v=4" width="100px;" alt="Bill Wagner"/><br /><sub><b>Bill Wagner</b></sub></a><br /><a href="https://github.com/spboyer/dotnet-workshops/commits?author=BillWagner" title="Code">💻</a> <a href="#content-BillWagner" title="Content">🖋</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
