@@ -57,6 +57,22 @@ This ASP.NET Core workshop is broken down by topics: middleware, front-end, etc.
 
 Add your workshop here!
 
+## [Blazor One Hour Hands-on Lab](https://github.com/jeremylikness/blazor-wasm)
+
+![last commit](https://img.shields.io/github/last-commit/jeremylikness/blazor-wasm.svg?style=flat)
+[![GitHub forks](https://img.shields.io/github/forks/jeremylikness/blazor-wasm.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jeremylikness/blazor-wasm/network/)
+[![GitHub stars](https://img.shields.io/github/stars/jeremylikness/blazor-wasm.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/jeremylikness/blazor-wasm/stargazers/)
+
+This lab is aimed at developers with no prior knowledge of Blazor but want to get started quickly. It is paired with an open source presentation deck and contains step-by-step instructions to explore:
+
+- WebAssembly fundamentals
+- Hosted vs. client-only projects
+- Reusable Blazor (Razor) components
+- Referencing existing .NET Standard packages
+- JavaScript interopability
+- Code behind
+- MVVM pattern
+
 ## [Learning C# on Linux](https://github.com/martinwoodward/csharpworkshop)
 
 ![last commit](https://img.shields.io/github/last-commit/martinwoodward/csharpworkshop.svg?style=flat)
