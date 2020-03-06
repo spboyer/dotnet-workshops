@@ -161,6 +161,29 @@ Key topics and takeaways:
 - Thread Safe Collections
 - new System.ValueTuple
 
+## [.NET C#, Learn to build a GraphQl API, host it in a Serverless function and deploy](https://edcharbeneau.com/csharp-functional-workshop-instructions/)
+
+You’ll learn:
+
+- [x] How to build a GraphQL API
+- [x] How to build Micro services with Docker
+- [x] How to create a Serverless function and integrate the GraphQL and the micro services 
+- [x] How to deploy it all to Azure
+
+Workshop found at
+
+> aka.ms.graphql-workshop-dotnet
+
+![last commit](https://img.shields.io/github/last-commit/softchris/graphql-workshop-dotnet.svg?style=flat)
+[![GitHub forks](https://img.shields.io/github/forks/softchris/graphql-workshop-dotnet.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/softchris/graphql-workshop-dotnet/network/)
+[![GitHub stars](https://img.shields.io/github/stars/softchris/graphql-workshop-dotnet.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/softchris/graphql-workshop-dotnet/stargazers/)
+
+[Source code](https://github.com/softchris/graphql-workshop-dotnet)
+
+[Delivered at VS Live Las Vegas 2020](https://vslive.com/Events/Las-Vegas-2020/Sessions/Friday/F03-HandsOn-Workshop-Serverless-GraphQL.aspx)
+
+Hosted by [Chris Noring](https://twitter.com/chris_noring)
+
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
